@@ -1,5 +1,5 @@
 #!/bin/bash
-# cosmic2annovar.sh mail:passwd
+# ./cosmic2annovar.sh mail:passwd
 
 for i in "CosmicCodingMuts.vcf.gz" "CosmicNonCodingVariants.vcf.gz"
 do
